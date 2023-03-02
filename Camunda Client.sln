@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Camunda Client", "Camunda Client\Camunda Client.csproj", "{9DC77134-74C6-4A79-8A76-A968CCEE159A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC77134-74C6-4A79-8A76-A968CCEE159A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC77134-74C6-4A79-8A76-A968CCEE159A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC77134-74C6-4A79-8A76-A968CCEE159A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC77134-74C6-4A79-8A76-A968CCEE159A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {285DD8DE-87DF-4CCF-8703-ED9797CB9208}
+	EndGlobalSection
+EndGlobal
